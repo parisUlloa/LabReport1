@@ -26,7 +26,7 @@ Visual Studio code will be our main place to be in order to continue working wit
 
 **Remotely Connecting with ieng6 account!**
 
-**CAUTION**
+**caution !!**
 ---
 >If you are setting this up on a Windows Please do the following:\
 >**Go to this link <https://gitforwindows.org> and download the following app\**
@@ -39,7 +39,15 @@ Visual Studio code will be our main place to be in order to continue working wit
 >>![Image](Bash.png)
 >
 
+---
 
+**Setting up ieng6 on VS**\
 
 Open a **New Terminal**
+![Image](terminal.png)
+
+In order to set up ur ieng6 account we will begin by typing _ssh_ first then following your _AD username_ \
+
+For example:
+
 
