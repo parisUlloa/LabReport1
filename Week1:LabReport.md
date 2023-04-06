@@ -26,6 +26,8 @@ Visual Studio code will be our main place to be in order to continue working wit
 
 **Remotely Connecting with ieng6 account!**
 
+**CAUTION**
+---
 >If you are setting this up on a Windows Please do the following:\
 >**Go to this link <https://gitforwindows.org> and download the following app\**
 >
@@ -36,4 +38,8 @@ Visual Studio code will be our main place to be in order to continue working wit
 >>After youll have to change the setting to bash like this:
 >>![Image](Bash.png)
 >
+
+
+
+Open a **New Terminal**
 
