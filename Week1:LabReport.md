@@ -10,10 +10,10 @@ operations likedebugging, task running, and version control.
 
 Visual Studio code will be our main place to be in order to continue working with an account of ieng6.
 
->Installing VS(Visual Code):\
+>Installing VS(Visual Code):
 >**if not have installed Please Follow steps below:**\
 >
->1.Go to the Visual Studio Code Installation Website\
+>1.Go to the Visual Studio Code Installation Website <https://code.visualstudio.com>\
 >2.Follow Instructions provided in order to download in your personal computer or whichever device youll be using \
 >3.Once installed youll be able to open it and see something similar to this picture:\
 >
