@@ -4,7 +4,7 @@ First thing is First! The Set Up:
 Visual Studio Code is a streamlined code editor (app,software) with support for development 
 operations likedebugging, task running, and version control. 
 
-## Part 1
+# Part 1
 
 **Setting up Visual Studio**
 
@@ -22,7 +22,7 @@ Visual Studio code will be our main place to be in order to continue working wit
 
 **Congradulation!!! You have successfully insalled VS**
 
-## Part 2
+# Part 2
 
 **Remotely Connecting with ieng6 account!**
 
@@ -47,6 +47,8 @@ Visual Studio code will be our main place to be in order to continue working wit
 Open a **New Terminal**
 ![Image](terminal.png)
 
+## If a question pops up in te terminal it is valid to say YES to anything the software is asking in order to have a smooth installation
+
 * In order to set up ur ieng6 account we will begin by typing _ssh_ first then following your _AD username_ 
 
 For example:
@@ -65,11 +67,33 @@ Once you type your AD password it will not show anything in the terminal this is
 >Something similar as my Visual below will show up !
 >![Image](solution.png)
 
-# **And you have now successfully completed the set up for an account of ieng6 !!!**
+## **And you have now successfully completed the set up for an account of ieng6 !!!**
 ## Congradulations Heres a Trophy for your Completion!
 >![Image](trop.jpeg)
 
 
+# Part 3
+**Trying Some Commands**
+
+In order to get a basic foundation in using ieng6 you can try the following commands\
+1) cd ~
+2) cd
+3) ls -lat
+4) ls -a
+5) cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+6) cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+
+Try out these fun commands and see what you can encounter !!
+
+_FUN FACT:_
+
+Typing the following once you are ready to leave the terminal it can log you out successfully and quickly
+
+* Ctrl-D
+* Run the command exit
 
 
+**Thank you for participating and taking the time to see my Tutorial !**
+
+hope this helps !
 
