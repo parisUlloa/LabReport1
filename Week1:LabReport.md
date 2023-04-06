@@ -41,13 +41,21 @@ Visual Studio code will be our main place to be in order to continue working wit
 
 ---
 
-**Setting up ieng6 on VS**
+# **Setting up ieng6 on VS**
+
 
 Open a **New Terminal**
 ![Image](terminal.png)
 
-In order to set up ur ieng6 account we will begin by typing _ssh_ first then following your _AD username_ 
+* In order to set up ur ieng6 account we will begin by typing _ssh_ first then following your _AD username_ 
 
 For example:
+![Image](ssh.png)
+
+* Next youll click enter,which will result with the terminal asking for a _PassWord_
+
+
+
+
 
 
