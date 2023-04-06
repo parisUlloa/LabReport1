@@ -62,7 +62,7 @@ Once you type your AD password it will not show anything in the terminal this is
 
 * If the password was corretly written (yes it took me more than once to type mine correctly lol)
 >Something similar as my Visual below will show up !
->[Image](solution.png)
+>![Image](solution.png)
 
 # **And you have now successfully completed the set up for an account of ieng6 !!!**
 ## Congradulations Heres a Trophy for your Completion!
