@@ -11,7 +11,7 @@ operations likedebugging, task running, and version control.
 Visual Studio code will be our main place to be in order to continue working with an account of ieng6.
 
 >Installing VS(Visual Code):
->**if not have installed Please Follow steps below:**\
+>**if not have installed Please Follow steps below:**
 >
 >1.Go to the Visual Studio Code Installation Website <https://code.visualstudio.com>\
 >2.Follow Instructions provided in order to download in your personal computer or whichever device youll be using \
@@ -28,8 +28,8 @@ Visual Studio code will be our main place to be in order to continue working wit
 
 **caution !!**
 ---
->If you are setting this up on a Windows Please do the following:\
->**Go to this link <https://gitforwindows.org> and download the following app\**
+>If you are setting this up on a Windows Please do the following:
+>**Go to this link <https://gitforwindows.org> and download the following app**
 >
 >>Once downloaded youll will now be going to Visual Studio Code and open a **New Terminal**
 >>![Image](terminal.png)
@@ -50,11 +50,12 @@ Open a **New Terminal**
 * In order to set up ur ieng6 account we will begin by typing _ssh_ first then following your _AD username_ 
 
 For example:
->My AD username is 'paguilarulloa' so it would look something like this
-![Image](ssh.png)
+>My AD username is 'paguilarulloa' so it would look something like this 
+>* In order to go directly to the account youll have to type '@ieng6.ucsd.edu' right after your typed the username. 
+>![Image](ssh.png)
 
 
-* Next youll click enter,which will result with the terminal asking for a _PassWord_\
+* Next youll click enter, which will result with the terminal asking for a _PassWord_\
 Once you type your AD password it will not show anything in the terminal this is for secuirty purposes (so no one can see you type the password!!) 
 
 ![Image](pass.png)
