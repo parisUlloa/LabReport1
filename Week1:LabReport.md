@@ -1,6 +1,6 @@
 Welcome! This is a tutorial in order to log into a course-specific account on ieng6.
 
-First thing is First! The Set Up:\
+First thing is First! The Set Up:
 Visual Studio Code is a streamlined code editor (app,software) with support for development 
 operations likedebugging, task running, and version control. 
 
