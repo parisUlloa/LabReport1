@@ -26,8 +26,14 @@ Visual Studio code will be our main place to be in order to continue working wit
 
 **Remotely Connecting with ieng6 account!**
 
-If you are setting this up on a Windows Please do the following:\
-**Go to this link <https://gitforwindows.org> and download the following app\**
-
->Once downloaded youll will now be going to Visual Studio Code and open a **New Terminal**
+>If you are setting this up on a Windows Please do the following:\
+>**Go to this link <https://gitforwindows.org> and download the following app\**
 >
+>>Once downloaded youll will now be going to Visual Studio Code and open a **New Terminal**
+>>![Image](terminal.png)
+>
+>
+>>After youll have to change the setting to bash like this:
+>>![Image](Bash.png)
+>
+
