@@ -67,7 +67,7 @@ Once you type your AD password it will not show anything in the terminal this is
 # **And you have now successfully completed the set up for an account of ieng6 !!!**
 ## Congradulations Heres a Trophy for your Completion!
 
-[Image](trophy.jpeg)
+
 
 
 
