@@ -54,8 +54,18 @@ For example:
 ![Image](ssh.png)
 
 
-* Next youll click enter,which will result with the terminal asking for a _PassWord_
+* Next youll click enter,which will result with the terminal asking for a _PassWord_\
+Once you type your AD password it will not show anything in the terminal this is for secuirty purposes (so no one can see you type the password!!) 
 
+![Image](pass.png)
+
+
+* If the password was corretly written (yes it took me more than once to type mine correctly lol)
+>Something similar as my Visual below will show up !
+>[Image](solution.png)
+
+# **And you have now successfully completed the set up for an account of ieng6 !!!**
+## Congradulations Heres a Trophy for your Completion!
 
 
 
