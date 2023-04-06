@@ -50,7 +50,7 @@ Open a **New Terminal**
 * In order to set up ur ieng6 account we will begin by typing _ssh_ first then following your _AD username_ 
 
 For example:
->My AD username is paguilarulloa so it would look something like this
+>My AD username is 'paguilarulloa' so it would look something like this
 ![Image](ssh.png)
 
 
