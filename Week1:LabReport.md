@@ -75,7 +75,7 @@ Once you type your AD password it will not show anything in the terminal this is
 # Part 3
 **Trying Some Commands**
 
->In order to get a basic foundation in using ieng6 you can try the following commands\
+>In order to get a basic understanding in using ieng6 you can try the following commands\
 >>1) cd ~
 >>2) cd
 >>3) ls -lat
