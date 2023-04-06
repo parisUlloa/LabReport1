@@ -75,15 +75,17 @@ Once you type your AD password it will not show anything in the terminal this is
 # Part 3
 **Trying Some Commands**
 
-In order to get a basic foundation in using ieng6 you can try the following commands\
-1) cd ~
-2) cd
-3) ls -lat
-4) ls -a
-5) cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-6) cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+>In order to get a basic foundation in using ieng6 you can try the following commands\
+>>1) cd ~
+>>2) cd
+>>3) ls -lat
+>>4) ls -a
+>>5) cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+>>6) cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+>
 
 Try out these fun commands and see what you can encounter !!
+
 
 _FUN FACT:_
 
@@ -92,6 +94,7 @@ Typing the following once you are ready to leave the terminal it can log you out
 * Ctrl-D
 * Run the command exit
 
+---
 
 **Thank you for participating and taking the time to see my Tutorial !**
 
