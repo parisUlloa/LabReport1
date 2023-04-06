@@ -82,7 +82,10 @@ Once you type your AD password it will not show anything in the terminal this is
 >>4) ls -a
 >>5) cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 >>6) cat /home/linux/ieng6/cs15lsp23/public/hello.txt
->
+
+
+For example in my terminal the command 'ls -lat' executed this:
+![Image](com.png)
 
 Try out these fun commands and see what you can encounter !!
 
